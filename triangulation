@@ -1,0 +1,22 @@
+
+import math
+
+#-----  ALL UNITS IN METERS & DEGREES  ----#
+
+def main():
+
+
+    hoop_height = 2.6416
+
+    sin_a = False
+    sin_b = 90
+    sin_c = (180 - (sin_a + sin_b))
+
+    arena_x = 8.1026
+    arena_y = 16.4846
+
+
+
+
+if __name__ == ("__main__"):
+    main()
